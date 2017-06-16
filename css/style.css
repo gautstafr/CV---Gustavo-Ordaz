@@ -1,0 +1,29 @@
+p {
+   display: inline-flex;
+   vertical-align: middle;
+}
+
+i {
+   margin-right: 10px;
+}
+
+.idioma {
+   display: inline-flex;
+   vertical-align: middle;
+}
+
+.face {
+   background-color: #3B5998;
+}
+
+.linkd {
+   background-color: #0077b5;
+}
+
+.inst {
+   background-color: #8a3ab9;
+}
+
+.portfolio {
+   min-height: 600px;
+}
