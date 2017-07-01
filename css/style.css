@@ -1,10 +1,6 @@
-p {
-   display: inline-flex;
-   vertical-align: middle;
-}
-
-i {
-   margin-right: 10px;
+.material-icons {
+  display: inline-flex;
+  vertical-align: middle;
 }
 
 .idioma {
